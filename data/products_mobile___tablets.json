@@ -11,10 +11,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOB-QA50",
+    "sku": "MOB-X7G4",
     "status": "active",
-    "last_updated": "2025-10-24T09:38:36.479Z",
-    "site": "https://magicearn.shop"
+    "last_updated": "2025-10-24T17:00:21.789Z"
   },
   {
     "id": "prod_6ae7f592affd",
@@ -28,10 +27,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOB-XLY4",
+    "sku": "MOB-Q345",
     "status": "active",
-    "last_updated": "2025-10-24T09:38:36.821Z",
-    "site": "https://magicearn.shop"
+    "last_updated": "2025-10-24T17:00:21.805Z"
   },
   {
     "id": "prod_d150b2b1fff6",
@@ -45,10 +43,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOB-EKXD",
+    "sku": "MOB-TRAU",
     "status": "active",
-    "last_updated": "2025-10-24T09:38:37.148Z",
-    "site": "https://magicearn.shop"
+    "last_updated": "2025-10-24T17:00:21.814Z"
   },
   {
     "id": "prod_2fc560969f54",
@@ -62,10 +59,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOB-MMM6",
+    "sku": "MOB-J6I6",
     "status": "active",
-    "last_updated": "2025-10-24T09:38:37.264Z",
-    "site": "https://magicearn.shop"
+    "last_updated": "2025-10-24T17:00:21.827Z"
   },
   {
     "id": "prod_3a8631b002b2",
@@ -79,10 +75,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOB-9F6M",
+    "sku": "MOB-LKZX",
     "status": "active",
-    "last_updated": "2025-10-24T09:38:37.433Z",
-    "site": "https://magicearn.shop"
+    "last_updated": "2025-10-24T17:00:21.837Z"
   },
   {
     "id": "prod_6191bc7ce66a",
@@ -96,9 +91,8 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOB-4XLN",
+    "sku": "MOB-ZPAV",
     "status": "active",
-    "last_updated": "2025-10-24T09:38:37.520Z",
-    "site": "https://magicearn.shop"
+    "last_updated": "2025-10-24T17:00:21.840Z"
   }
 ]
