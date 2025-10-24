@@ -1,0 +1,47 @@
+{
+  "version": "1.2",
+  "last_updated": "2025-10-24T09:21:45.561Z",
+  "cache_buster": "v=1.2000000000000002&t=1761297705561",
+  "total_products": 200,
+  "categories": [
+    "Women's Fashion",
+    "TVs & Home Appliances",
+    "Sports & Outdoors",
+    "Men's Fashion",
+    "Health & Beauty",
+    "Mobile & Tablets",
+    "Baby, Kids & Toys",
+    "Groceries & Pets",
+    "Computing, Cameras & Gaming",
+    "Kids & Toys",
+    "Motors"
+  ],
+  "chunk_files": [
+    "products_women_s_fashion",
+    "products_tvs___home_appliances",
+    "products_sports___outdoors",
+    "products_men_s_fashion",
+    "products_health___beauty",
+    "products_mobile___tablets",
+    "products_baby__kids___toys",
+    "products_groceries___pets",
+    "products_computing__cameras___gaming",
+    "products_kids___toys",
+    "products_motors"
+  ],
+  "statistics": {
+    "categories_count": 11,
+    "products_with_images": 0,
+    "low_stock_products": 0,
+    "out_of_stock_products": 0,
+    "average_price": "2004.62",
+    "total_stock_value": 400522077
+  },
+  "system": {
+    "environment": "PRODUCTION",
+    "generated_by": "EnhancedProductAPI-v3.1",
+    "update_frequency": "1 hours"
+  },
+  "backup_timestamp": "2025-10-24T09-21-45-563Z",
+  "original_version": "1.2"
+}
