@@ -1,77 +1,45 @@
 {
-  "version": "2.2",
-  "last_updated": "2025-10-24T09:01:55.338Z",
+  "version": "1.2",
+  "last_updated": "2025-10-24T09:21:45.561Z",
+  "cache_buster": "v=1.2000000000000002&t=1761297705561",
   "total_products": 200,
   "categories": [
-    {
-      "id": "women_s_fashion",
-      "name": "Women's Fashion",
-      "product_count": 69
-    },
-    {
-      "id": "tvs___home_appliances",
-      "name": "TVs & Home Appliances",
-      "product_count": 45
-    },
-    {
-      "id": "sports___outdoors",
-      "name": "Sports & Outdoors",
-      "product_count": 8
-    },
-    {
-      "id": "men_s_fashion",
-      "name": "Men's Fashion",
-      "product_count": 7
-    },
-    {
-      "id": "health___beauty",
-      "name": "Health & Beauty",
-      "product_count": 48
-    },
-    {
-      "id": "mobile___tablets",
-      "name": "Mobile & Tablets",
-      "product_count": 6
-    },
-    {
-      "id": "baby__kids___toys",
-      "name": "Baby, Kids & Toys",
-      "product_count": 1
-    },
-    {
-      "id": "groceries___pets",
-      "name": "Groceries & Pets",
-      "product_count": 3
-    },
-    {
-      "id": "computing__cameras___gaming",
-      "name": "Computing, Cameras & Gaming",
-      "product_count": 1
-    },
-    {
-      "id": "kids___toys",
-      "name": "Kids & Toys",
-      "product_count": 8
-    },
-    {
-      "id": "motors",
-      "name": "Motors",
-      "product_count": 4
-    }
+    "Women's Fashion",
+    "TVs & Home Appliances",
+    "Sports & Outdoors",
+    "Men's Fashion",
+    "Health & Beauty",
+    "Mobile & Tablets",
+    "Baby, Kids & Toys",
+    "Groceries & Pets",
+    "Computing, Cameras & Gaming",
+    "Kids & Toys",
+    "Motors"
+  ],
+  "chunk_files": [
+    "products_women_s_fashion",
+    "products_tvs___home_appliances",
+    "products_sports___outdoors",
+    "products_men_s_fashion",
+    "products_health___beauty",
+    "products_mobile___tablets",
+    "products_baby__kids___toys",
+    "products_groceries___pets",
+    "products_computing__cameras___gaming",
+    "products_kids___toys",
+    "products_motors"
   ],
   "statistics": {
-    "total_images": 766,
-    "price_range": {
-      "min": 199,
-      "max": 6499,
-      "average": 2004.62
-    },
-    "in_stock_count": 200,
-    "top_image_domains": {}
+    "categories_count": 11,
+    "products_with_images": 0,
+    "low_stock_products": 0,
+    "out_of_stock_products": 0,
+    "average_price": "2004.62",
+    "total_stock_value": 400522077
   },
-  "security": {
-    "secured_by": "UltraPermissiveProductAPI",
-    "image_validation": "ALL_URLS_ACCEPTED",
-    "last_validated": "2025-10-24T09:01:55.339Z"
+  "system": {
+    "environment": "PRODUCTION",
+    "generated_by": "EnhancedProductAPI-v3.1",
+    "update_frequency": "1 hours"
   }
 }
