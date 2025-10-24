@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "last_updated": "2025-10-24T08:24:47.736Z",
+  "version": "2.2",
+  "last_updated": "2025-10-24T08:37:01.418Z",
   "total_products": 200,
   "categories": [
     {
@@ -70,9 +70,9 @@
     "top_image_domains": {}
   },
   "security": {
-    "secured_by": "EnhancedProductAPI",
+    "secured_by": "UltraPermissiveProductAPI",
     "validation_errors": 200,
-    "image_validation": "relaxed_with_security_checks",
-    "last_validated": "2025-10-24T08:24:47.737Z"
+    "image_validation": "ultra_permissive_with_basic_security",
+    "last_validated": "2025-10-24T08:37:01.418Z"
   }
 }
