@@ -11,9 +11,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-ZKIQ",
+    "sku": "KID-COGH",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.365Z"
+    "last_updated": "2025-10-24T09:38:37.218Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_1adb9566858a",
@@ -27,9 +28,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-3Z10",
+    "sku": "KID-P6OE",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.368Z"
+    "last_updated": "2025-10-24T09:38:37.225Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_6bec2fa5cd67",
@@ -43,9 +45,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-P1U2",
+    "sku": "KID-QK8O",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.370Z"
+    "last_updated": "2025-10-24T09:38:37.227Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_7293b3ab2849",
@@ -59,9 +62,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-PZX2",
+    "sku": "KID-ELL5",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.437Z"
+    "last_updated": "2025-10-24T09:38:37.612Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_7d82303174bf",
@@ -75,9 +79,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-8PTH",
+    "sku": "KID-3GKE",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.439Z"
+    "last_updated": "2025-10-24T09:38:37.613Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_fdac42e8f9c4",
@@ -91,9 +96,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-F7MS",
+    "sku": "KID-B22G",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.441Z"
+    "last_updated": "2025-10-24T09:38:37.615Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_265452e86796",
@@ -107,9 +113,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-HBY0",
+    "sku": "KID-SUOX",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.468Z"
+    "last_updated": "2025-10-24T09:38:37.818Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_66bc35fa0f5a",
@@ -123,8 +130,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "KID-38AZ",
+    "sku": "KID-OKLM",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.478Z"
+    "last_updated": "2025-10-24T09:38:37.879Z",
+    "site": "https://magicearn.shop"
   }
 ]
