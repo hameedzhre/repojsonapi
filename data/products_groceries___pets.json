@@ -1,6 +1,6 @@
 [
   {
-    "id": "organic_flax_seeds_100_natural_gluten_free_non_gmo_1761288905784",
+    "id": "prod_5aec8d6a",
     "name": "Organic Flax Seeds ? 100% Natural, Gluten-Free & Non-GMO Superfood (500g)\n",
     "category": "Groceries & Pets",
     "subcategory": "Groceries",
@@ -10,11 +10,10 @@
       "https://hhcnewapp.blr1.digitaloceanspaces.com/uploads/2025/10/16/3acb429f26851e4c5b1dad786e0716ba.png",
       "https://hhcnewapp.blr1.digitaloceanspaces.com/uploads/2025/10/16/a66f5c9053a9d70f4f464a75cc54f24e.png"
     ],
-    "has_images": true,
     "image_count": 2
   },
   {
-    "id": "organic_flax_seeds_100_natural_gluten_free_non_gmo_1761288905784",
+    "id": "prod_4354eb0a",
     "name": "Organic Flax Seeds ? 100% Natural, Gluten-Free & Non-GMO Superfood (250g)\r",
     "category": "Groceries & Pets",
     "subcategory": "Groceries",
@@ -24,11 +23,10 @@
       "https://hhcnewapp.blr1.digitaloceanspaces.com/uploads/2025/10/16/3acb429f26851e4c5b1dad786e0716ba.png",
       "https://hhcnewapp.blr1.digitaloceanspaces.com/uploads/2025/10/16/a66f5c9053a9d70f4f464a75cc54f24e.png"
     ],
-    "has_images": true,
     "image_count": 2
   },
   {
-    "id": "valam_naturals_chia_seeds_100_pure_clean_nutrient__1761288905784",
+    "id": "prod_23f9a193",
     "name": "Valam Naturals Chia Seeds ? 100% Pure, Clean & Nutrient-Rich Superfood\r",
     "category": "Groceries & Pets",
     "subcategory": "Groceries",
@@ -39,7 +37,6 @@
       "https://hhcnewapp.blr1.digitaloceanspaces.com/uploads/2025/10/16/c075d9c437d8299b4e38df1ab9041333.jpeg",
       "https://hhcnewapp.blr1.digitaloceanspaces.com/uploads/2025/10/16/090d235110265c4227d54324bb867fc1.jpeg"
     ],
-    "has_images": true,
     "image_count": 3
   }
 ]
