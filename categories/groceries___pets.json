@@ -2,7 +2,7 @@
   "category_name": "Groceries & Pets",
   "products": [
     {
-      "id": "prod_Ubswlo9OdnMtQY2h",
+      "id": "organic_flax_seeds___mh4l55w2_zyhsis",
       "name": "Organic Flax Seeds ? 100% Natural, Gluten-Free & Non-GMO Superfood (500g)",
       "category": "Groceries & Pets",
       "subcategory": "Groceries",
@@ -13,11 +13,11 @@
       "images": [],
       "image_count": 0,
       "in_stock": true,
-      "created_at": "2025-10-24T08:10:28.191Z",
-      "updated_at": "2025-10-24T08:10:28.191Z"
+      "created_at": "2025-10-24T08:24:47.379Z",
+      "updated_at": "2025-10-24T08:24:47.379Z"
     },
     {
-      "id": "prod_1xy8qZFLwS7nlgSr",
+      "id": "organic_flax_seeds___mh4l55w4_dxm0dy",
       "name": "Organic Flax Seeds ? 100% Natural, Gluten-Free & Non-GMO Superfood (250g)",
       "category": "Groceries & Pets",
       "subcategory": "Groceries",
@@ -28,23 +28,23 @@
       "images": [],
       "image_count": 0,
       "in_stock": true,
-      "created_at": "2025-10-24T08:10:28.194Z",
-      "updated_at": "2025-10-24T08:10:28.194Z"
+      "created_at": "2025-10-24T08:24:47.380Z",
+      "updated_at": "2025-10-24T08:24:47.380Z"
     },
     {
-      "id": "prod_8La7i3GPASO6gGyk",
+      "id": "valam_naturals_chia__mh4l55w6_3yyva5",
       "name": "Valam Naturals Chia Seeds ? 100% Pure, Clean & Nutrient-Rich Superfood",
       "category": "Groceries & Pets",
       "subcategory": "Groceries",
       "price": 1929,
       "original_price": null,
-      "description": "Experience the power of nature with Valam Naturals Chia Seeds, a premium superfood known for its exceptional nutritional value and versatility. Sourced with care and packed in sleek, modern pouches, these chia seeds are 100% natural and meticulously cleaned to ensure purity and quality.\r\n\r\nRich in dietary fiber, plant-based protein, and omega-3 fatty acids, chia seeds are a smart addition to any health-conscious lifestyle. Whether you're blending them into smoothies, sprinkling them over yogurt, or using them in baking, Valam Naturals Chia Seeds deliver a satisfying crunch and a wealth of health benefits.\r\n\r\nEach pouch is clearly labeled with manufacturing and expiration dates for freshness assurance, and the transparent window lets you see the quality inside. With multiple sizes available, you can choose the perfect fit for your kitchen or pantry.\r\n\r\nKey Benefits:\r\n\r\n100% natural and neatly cleanedHigh in fiber, protein, and omega-3 fatty acidsSupports digestion, heart health, and ene",
+      "description": "Experience the power of nature with Valam Naturals Chia Seeds, a premium superfood known for its exceptional nutritional value and versatility. Sourced with care and packed in sleek, modern pouches, these chia seeds are 100% natural and meticulously cleaned to ensure purity and quality.\r\n\r\nRich in dietary fiber, plant-based protein, and omega-3 fatty acids, chia seeds are a smart addition to any health-conscious lifestyle. Whether you're blending them into smoothies, sprinkling them over yogurt, or using them in baking, Valam Naturals Chia Seeds deliver a satisfying crunch and a wealth of health benefits.\r\n\r\nEach pouch is clearly labeled with manufacturing and expiration dates for freshness assurance, and the transparent window lets you see the quality inside. With multiple sizes available, you can choose the perfect fit for your kitchen or pantry.\r\n\r\nKey Benefits:\r\n\r\n100% natural and neatly cleanedHigh in fiber, protein, and omega-3 fatty acidsSupports digestion, heart health, and energy levelsIdeal for smoothies, salads, baking, and moreAvailable in multiple pouch sizes for convenienceSleek packaging with freshness guarantee",
       "features": [],
       "images": [],
       "image_count": 0,
       "in_stock": true,
-      "created_at": "2025-10-24T08:10:28.197Z",
-      "updated_at": "2025-10-24T08:10:28.197Z"
+      "created_at": "2025-10-24T08:24:47.382Z",
+      "updated_at": "2025-10-24T08:24:47.382Z"
     }
   ]
 }
