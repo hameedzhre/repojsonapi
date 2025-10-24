@@ -11,9 +11,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-IBJC",
+    "sku": "SPO-YN3O",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.225Z"
+    "last_updated": "2025-10-24T09:38:36.395Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_8eb730f5204a",
@@ -27,9 +28,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-UZU1",
+    "sku": "SPO-LD9A",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.227Z"
+    "last_updated": "2025-10-24T09:38:36.407Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_a5354397d411",
@@ -43,9 +45,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-KVSN",
+    "sku": "SPO-ADU8",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.276Z"
+    "last_updated": "2025-10-24T09:38:36.617Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_55aed1531779",
@@ -59,9 +62,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-Z9TU",
+    "sku": "SPO-C88Z",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.280Z"
+    "last_updated": "2025-10-24T09:38:36.633Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_6f58f2d4cc91",
@@ -75,9 +79,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-FUGQ",
+    "sku": "SPO-DETT",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.281Z"
+    "last_updated": "2025-10-24T09:38:36.658Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_781b50bbc548",
@@ -91,9 +96,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-LOHF",
+    "sku": "SPO-DXWL",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.284Z"
+    "last_updated": "2025-10-24T09:38:36.706Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_9566f49c8a18",
@@ -107,9 +113,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-W8JC",
+    "sku": "SPO-QC36",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.395Z"
+    "last_updated": "2025-10-24T09:38:37.329Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_e98fec7c0850",
@@ -123,8 +130,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "SPO-M4DZ",
+    "sku": "SPO-SJFO",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.454Z"
+    "last_updated": "2025-10-24T09:38:37.672Z",
+    "site": "https://magicearn.shop"
   }
 ]
