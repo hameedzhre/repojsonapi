@@ -1,0 +1,72 @@
+{
+  "version": "2.1",
+  "last_updated": "2025-10-24T08:24:47.736Z",
+  "categories": [
+    {
+      "id": "women_s_fashion",
+      "name": "Women's Fashion",
+      "product_count": 69,
+      "file": "categories/women_s_fashion.json"
+    },
+    {
+      "id": "tvs___home_appliances",
+      "name": "TVs & Home Appliances",
+      "product_count": 45,
+      "file": "categories/tvs___home_appliances.json"
+    },
+    {
+      "id": "sports___outdoors",
+      "name": "Sports & Outdoors",
+      "product_count": 8,
+      "file": "categories/sports___outdoors.json"
+    },
+    {
+      "id": "men_s_fashion",
+      "name": "Men's Fashion",
+      "product_count": 7,
+      "file": "categories/men_s_fashion.json"
+    },
+    {
+      "id": "health___beauty",
+      "name": "Health & Beauty",
+      "product_count": 48,
+      "file": "categories/health___beauty.json"
+    },
+    {
+      "id": "mobile___tablets",
+      "name": "Mobile & Tablets",
+      "product_count": 6,
+      "file": "categories/mobile___tablets.json"
+    },
+    {
+      "id": "baby__kids___toys",
+      "name": "Baby, Kids & Toys",
+      "product_count": 1,
+      "file": "categories/baby__kids___toys.json"
+    },
+    {
+      "id": "groceries___pets",
+      "name": "Groceries & Pets",
+      "product_count": 3,
+      "file": "categories/groceries___pets.json"
+    },
+    {
+      "id": "computing__cameras___gaming",
+      "name": "Computing, Cameras & Gaming",
+      "product_count": 1,
+      "file": "categories/computing__cameras___gaming.json"
+    },
+    {
+      "id": "kids___toys",
+      "name": "Kids & Toys",
+      "product_count": 8,
+      "file": "categories/kids___toys.json"
+    },
+    {
+      "id": "motors",
+      "name": "Motors",
+      "product_count": 4,
+      "file": "categories/motors.json"
+    }
+  ]
+}
