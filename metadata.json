@@ -1,7 +1,12 @@
 {
-  "version": "1.2",
-  "last_updated": "2025-10-24T09:21:45.561Z",
-  "cache_buster": "v=1.2000000000000002&t=1761297705561",
+  "version": "4.0",
+  "last_updated": "2025-10-24T09:38:38.224Z",
+  "cache_buster": "v=4&t=1761298718226",
+  "site": {
+    "name": "MagicEarn Shop",
+    "url": "https://magicearn.shop",
+    "api_version": "4.0"
+  },
   "total_products": 200,
   "categories": [
     "Women's Fashion",
@@ -38,8 +43,7 @@
     "total_stock_value": 400522077
   },
   "system": {
-    "environment": "PRODUCTION",
-    "generated_by": "EnhancedProductAPI-v3.1",
+    "generated_by": "MagicEarnShop-API-v4.0",
     "update_frequency": "1 hours"
   }
 }
