@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "last_updated": "2025-10-24T08:46:01.075Z",
+  "last_updated": "2025-10-24T09:01:55.338Z",
   "total_products": 200,
   "categories": [
     {
@@ -60,7 +60,7 @@
     }
   ],
   "statistics": {
-    "total_images": 0,
+    "total_images": 766,
     "price_range": {
       "min": 199,
       "max": 6499,
@@ -71,8 +71,7 @@
   },
   "security": {
     "secured_by": "UltraPermissiveProductAPI",
-    "validation_errors": 200,
-    "image_validation": "ultra_permissive_with_basic_security",
-    "last_validated": "2025-10-24T08:46:01.075Z"
+    "image_validation": "ALL_URLS_ACCEPTED",
+    "last_validated": "2025-10-24T09:01:55.339Z"
   }
 }
