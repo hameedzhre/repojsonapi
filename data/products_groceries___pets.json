@@ -11,9 +11,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "GRO-KPKK",
+    "sku": "GRO-FCL1",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.302Z"
+    "last_updated": "2025-10-24T09:38:36.715Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_4354eb0ab103",
@@ -27,9 +28,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "GRO-JSTB",
+    "sku": "GRO-BYLH",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.303Z"
+    "last_updated": "2025-10-24T09:38:36.716Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_23f9a1930ddb",
@@ -43,8 +45,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "GRO-VDSF",
+    "sku": "GRO-SRAY",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.304Z"
+    "last_updated": "2025-10-24T09:38:36.718Z",
+    "site": "https://magicearn.shop"
   }
 ]
