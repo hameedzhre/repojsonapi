@@ -11,9 +11,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-3W50",
+    "sku": "MEN-Z1II",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.240Z"
+    "last_updated": "2025-10-24T09:38:36.425Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_fc24f758f163",
@@ -27,9 +28,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-P4MX",
+    "sku": "MEN-4GZ4",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.309Z"
+    "last_updated": "2025-10-24T09:38:36.748Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_bb443fad9e1b",
@@ -43,9 +45,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-817W",
+    "sku": "MEN-1QMT",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.338Z"
+    "last_updated": "2025-10-24T09:38:37.024Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_ec18038a0368",
@@ -59,9 +62,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-LFEE",
+    "sku": "MEN-ML8K",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.341Z"
+    "last_updated": "2025-10-24T09:38:37.086Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_35e880653734",
@@ -75,9 +79,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-GRP6",
+    "sku": "MEN-W1UE",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.363Z"
+    "last_updated": "2025-10-24T09:38:37.213Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_5223a657e1ec",
@@ -91,9 +96,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-M3MH",
+    "sku": "MEN-TRLG",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.417Z"
+    "last_updated": "2025-10-24T09:38:37.472Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_b8d7e4b61e1a",
@@ -107,8 +113,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MEN-10L9",
+    "sku": "MEN-0AVS",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.449Z"
+    "last_updated": "2025-10-24T09:38:37.628Z",
+    "site": "https://magicearn.shop"
   }
 ]
