@@ -1,6 +1,6 @@
 {
-  "version": 1761288905786,
-  "last_updated": "2025-10-24T06:55:05.786Z",
+  "version": "1.0",
+  "last_updated": "2025-10-24T07:35:49.880Z",
   "total_products": 200,
   "categories": [
     "Women's Fashion",
@@ -15,52 +15,5 @@
     "Kids & Toys",
     "Motors"
   ],
-  "subcategories": [
-    "Women's_Clothing",
-    "Kitchen_Appliances",
-    "Home_Appliances",
-    "Outdoor_Gear",
-    "Fitness_Equipment",
-    "Men's_Accessories",
-    "Hair_Care",
-    "Personal_Care",
-    "Mobile_Accessories",
-    "Toys",
-    "Women's_Shoes",
-    "Makeup",
-    "Fragrances",
-    "Skincare",
-    "Groceries",
-    "Women's_Accessories",
-    "Gaming_Accessories",
-    "Health_Supplements",
-    "Men's_Clothing",
-    "Baby_Care",
-    "Tools_Equipment",
-    "Sportswear",
-    "Motorcycles",
-    "Smart_Watches",
-    "Car_Accessories",
-    "Men's_Watches"
-  ],
-  "chunk_files": [
-    "products_women_s_fashion",
-    "products_tvs___home_appliances",
-    "products_sports___outdoors",
-    "products_men_s_fashion",
-    "products_health___beauty",
-    "products_mobile___tablets",
-    "products_baby__kids___toys",
-    "products_groceries___pets",
-    "products_computing__cameras___gaming",
-    "products_kids___toys",
-    "products_motors"
-  ],
-  "statistics": {
-    "products_with_images": 200,
-    "categories_count": 11,
-    "subcategories_count": 26,
-    "average_price": "2004.62",
-    "last_update": "10/24/2025, 11:55:05 AM"
-  }
+  "generated_by": "ProductAPI"
 }
