@@ -11,9 +11,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOT-M06J",
+    "sku": "MOT-CDUH",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.393Z"
+    "last_updated": "2025-10-24T09:38:37.314Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_91f435b2e12b",
@@ -27,9 +28,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOT-D1PJ",
+    "sku": "MOT-1U2T",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.398Z"
+    "last_updated": "2025-10-24T09:38:37.360Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_831e8cf36d4e",
@@ -43,9 +45,10 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOT-0WYP",
+    "sku": "MOT-X5XJ",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.410Z"
+    "last_updated": "2025-10-24T09:38:37.370Z",
+    "site": "https://magicearn.shop"
   },
   {
     "id": "prod_269c7c941885",
@@ -59,8 +62,9 @@
     "image_count": 0,
     "valid_image_count": 0,
     "has_images": false,
-    "sku": "MOT-DTUO",
+    "sku": "MOT-G67D",
     "status": "active",
-    "last_updated": "2025-10-24T09:21:45.431Z"
+    "last_updated": "2025-10-24T09:38:37.606Z",
+    "site": "https://magicearn.shop"
   }
 ]
