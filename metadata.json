@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "last_updated": "2025-10-24T08:10:28.527Z",
+  "version": "2.1",
+  "last_updated": "2025-10-24T08:24:47.736Z",
   "total_products": 200,
   "categories": [
     {
@@ -66,11 +66,13 @@
       "max": 6499,
       "average": 2004.62
     },
-    "in_stock_count": 200
+    "in_stock_count": 200,
+    "top_image_domains": {}
   },
   "security": {
     "secured_by": "EnhancedProductAPI",
-    "validation_errors": 0,
-    "last_validated": "2025-10-24T08:10:28.528Z"
+    "validation_errors": 200,
+    "image_validation": "relaxed_with_security_checks",
+    "last_validated": "2025-10-24T08:24:47.737Z"
   }
 }
